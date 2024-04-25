@@ -28,6 +28,32 @@
   />
   <img
     align="center"
+    alt="Express"
+    height="35"
+    width="35"
+    src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/express/express-original.svg"
+  />
+  <img
+    align="center"
+    alt="C"
+    height="35"
+    width="35"
+    src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/c/c-original.svg"
+  />
+  <img
+    align="center"
+    alt="C++"
+    height="35"
+    width="35"
+    src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/cplusplus/cplusplus-original.svg"
+  />
+</div>
+
+<br />
+
+<div align="center">
+  <img
+    align="center"
     alt="HTML5"
     height="35"
     width="35"
@@ -49,12 +75,31 @@
   />
   <img
     align="center"
-    alt="Go"
+    alt="NextJS"
     height="35"
     width="35"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"
+    src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/nextjs/nextjs-original.svg"
   />
-</div>
+<div/>
+
+<br />
+
+<div align="center">
+  <img
+    align="center"
+    alt="MongoDB"
+    height="35"
+    width="35"
+    src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mongodb/mongodb-original.svg"
+  />
+  <img
+    align="center"
+    alt="Firebase"
+    height="35"
+    width="35"
+    src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/firebase/firebase-original.svg"
+  />
+<div/>
 
 <br />
 
