@@ -21,6 +21,13 @@
   />
   <img
     align="center"
+    alt="Java"
+    height="35"
+    width="40"
+    src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/java/java-original.svg"
+  />
+  <img
+    align="center"
     alt="Node.js"
     height="35"
     width="35"
@@ -46,6 +53,13 @@
     height="35"
     width="35"
     src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/cplusplus/cplusplus-original.svg"
+  />
+  <img
+    align="center"
+    alt="Swift"
+    height="35"
+    width="35"
+    src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/swift/swift-original.svg"
   />
 </div>
 
@@ -80,6 +94,13 @@
     width="35"
     src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/nextjs/nextjs-original.svg"
   />
+  <img
+    align="center"
+    alt="Bootstrap"
+    height="35"
+    width="35"
+    src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/bootstrap/bootstrap-original.svg"
+  />
 <div/>
 
 <br />
@@ -98,6 +119,13 @@
     height="35"
     width="35"
     src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/firebase/firebase-original.svg"
+  />
+  <img
+    align="center"
+    alt="MySQL"
+    height="35"
+    width="40"
+    src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mysql/mysql-original.svg"
   />
 <div/>
 
