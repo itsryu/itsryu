@@ -173,7 +173,7 @@
 <div align="center">
   <a href="https://discord.com/users/1110284870875361350">
     <img 
-      src="https://lanyard.cnrad.dev/api/1110284870875361350"
+      src="https://api.ryuzaki.cloud/profile/1110284870875361350?cache-bust=1""
     />
   </a>
 </div>
