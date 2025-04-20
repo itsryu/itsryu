@@ -170,6 +170,16 @@
 
 <hr />
 
+<div align="center">
+  <a href="https://discord.com/users/1110284870875361350">
+    <img 
+      src="https://ryuwebsocket.fly.dev/profile/1110284870875361350" 
+    />
+  </a>
+</div>
+
+<hr />
+
 <br />
 
 <!-- Github Commits -->
