@@ -180,7 +180,3 @@
       alt="Total time coded since Nov 15 2022"
   />
 </div>
-
-<hr />
-
-<h3 align="center">🚀 Flying above the clouds.</h3>
